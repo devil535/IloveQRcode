@@ -23,7 +23,17 @@
   
    <ol>
  <li> WebPage Interface  </li><br>
-  <img src="https://github.com/devil535/Web-Icon-Grabber/blob/main/aaa.PNG?raw=true">
+  <img src="https://github.com/devil535/IloveQRcode/blob/main/Screenshots/web%20interface.PNG?raw=true">
+ <br><br>
+ --> Qr Code With Background: 
+ 
+ <img src="https://github.com/devil535/IloveQRcode/blob/main/Screenshots/qr%201.PNG?raw=true">
+ 
+ 
+ <br><br>
+ --> Qr Code Without Background: 
+ <img src="https://github.com/devil535/IloveQRcode/blob/main/Screenshots/qr2.PNG?raw=true">
+ 
  
 <br><br><br><br>
 
